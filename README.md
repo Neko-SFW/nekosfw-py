@@ -4,10 +4,9 @@ Developed by Crian69 (c) 2021
 
 ## Examples of How To Use
 
-Creating A Server
+Initializing the image type to receive
 
 ```python
-Initializing the image type to receive
 from nekosfw import ImageType
 
 imagetype = ImageType.Foxgirl
