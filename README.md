@@ -2,8 +2,11 @@
 
 Developed by Crian69 (c) 2021
 
-##Installing The Package
-```pip install nekosfw ``` 
+## Installing The Package
+
+```python
+pip install nekosfw 
+``` 
 
 ## Examples of How To Use
 
