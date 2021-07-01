@@ -2,6 +2,9 @@
 
 Developed by Crian69 (c) 2021
 
+##Installing The Package
+```pip install nekosfw ``` 
+
 ## Examples of How To Use
 
 Initializing the image type to receive
